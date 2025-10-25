@@ -59,6 +59,94 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_piM6Wq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dpHcpP": {
+          "type": "heading",
+          "settings": {
+            "title": "Talk about your brand",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_rKAcGq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_hbpX4H": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dpHcpP",
+        "text_rKAcGq",
+        "button_hbpX4H"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_with_text_WxLEew": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/6_benefices_6.png",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -234,14 +322,14 @@
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "columns_mobile": "2",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#ffffff",
@@ -250,6 +338,106 @@
         "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "trustpilot_reviews_nDaYnb": {
+      "type": "trustpilot-reviews",
+      "blocks": {
+        "column_rLzky9": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_dqmtDm": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_nd8HaG": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_rLzky9",
+        "column_dqmtDm",
+        "column_nd8HaG"
+      ],
+      "name": "Trustpilot reviews",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "desktop_content_position": "above",
+        "desktop_content_alignment": "center",
+        "title": "Trustpilot reviews",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
+        "subheading_rating_text": "<strong>4.8</strong>",
+        "subheading_mobile_text_size": 18,
+        "subheading_desktop_text_size": 20,
+        "subheading_font": "body",
+        "star_color": "#00b67a",
+        "bg_star_color": "#c8c8c8",
+        "star_symbol_color": "#fff",
+        "stars_rating": 5,
+        "text": "",
+        "cards_border_radius": 16,
+        "card_alignment": "center",
+        "show_stars": true,
+        "cards_color_scheme": "background-2",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
       }
     },
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
@@ -397,8 +585,11 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "rich_text_piM6Wq",
+    "image_with_text_WxLEew",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
+    "trustpilot_reviews_nDaYnb",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "contact_form_WHP8G7"
   ]
