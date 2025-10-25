@@ -65,33 +65,14 @@
         "heading_dpHcpP": {
           "type": "heading",
           "settings": {
-            "title": "Talk about your brand",
+            "title": "Ils en parlent",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1"
-          }
-        },
-        "text_rKAcGq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_hbpX4H": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_dpHcpP",
-        "text_rKAcGq",
-        "button_hbpX4H"
+        "heading_dpHcpP"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
