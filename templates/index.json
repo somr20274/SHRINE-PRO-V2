@@ -157,7 +157,7 @@
         "desktop_adaptive_height": true,
         "desktop_dots_position": "hidden",
         "desktop_arrows_position": "hidden",
-        "mobile_full_page": false,
+        "mobile_full_page": true,
         "mobile_border_radius": 0,
         "slides_mobile": 2,
         "per_move_mobile": 1,
