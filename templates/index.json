@@ -124,10 +124,20 @@
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_RYtBLe": {
+        "image_slide_Dt43iK": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/telecharger_6.png",
+            "image": "shopify://shop_images/M6.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_htbWch": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/telecharger_4.png",
             "link": "",
             "description": "",
             "desc_alignment": "center",
@@ -137,9 +147,10 @@
       },
       "block_order": [
         "image_slide_bFGaVG",
-        "image_slide_RYtBLe"
+        "image_slide_Dt43iK",
+        "image_slide_htbWch"
       ],
-      "name": "Image/Video Slider",
+      "name": "LOGO",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -150,8 +161,8 @@
         "type": "slide",
         "drag": "enabled",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "center_mode": false,
+        "autoplay_speed": 1,
+        "center_mode": true,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
         "dots_color_scheme": "inverse",
@@ -162,7 +173,7 @@
         "desktop_spacing": 28,
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
+        "desktop_adaptive_height": true,
         "desktop_dots_position": "hidden",
         "desktop_arrows_position": "hidden",
         "mobile_full_page": false,
@@ -173,7 +184,7 @@
         "mobile_side_padding": 0,
         "mobile_padding_calc": true,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
+        "mobile_dots_position": "hidden",
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
