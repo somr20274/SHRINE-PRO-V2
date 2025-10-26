@@ -962,15 +962,15 @@
         "heading_KVWVaG": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Dotée de la technologie FluidCore",
             "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_FU3rNB": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Protection intégrée à <strong>4 couches</strong> qui retient rapidement les fuites, pour que vous restiez au sec, en confiance et sans souci toute la journée.</p>",
             "text_style": "body"
           }
         }
@@ -1019,7 +1019,7 @@
         "heading_fgHwiT": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "- Dr Elena.M, spécialiste du plancher pelvien",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1"
           }
@@ -1027,7 +1027,7 @@
         "text_8BUtWk": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><em>\"J'ai vu des milliers de femmes</em><em><strong>souffrir d'incontinence</strong></em><em>et en ressentir la honte. C'est pourquoi j'ai créer les sous-vêtements VEINAA :</em><em><strong>une véritable protection</strong></em><em>qui vous procure la sensation de porter votre sous-vêtement préféré, et non un dispositif médical\"</em></p>",
             "text_style": "body"
           }
         }
