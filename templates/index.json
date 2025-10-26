@@ -711,6 +711,69 @@
         "padding_bottom": 36
       }
     },
+    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
+      "type": "results",
+      "blocks": {
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
+          "type": "row",
+          "settings": {
+            "percentage": 93,
+            "row_text": "<p>93% de nos clientes <strong>recommandent </strong>les culottes VEINAA a leurs proches</p>"
+          }
+        },
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>90% de nos clientes affirment avoir regagner <strong>confiance </strong>en elles.</p>"
+          }
+        },
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
+          "type": "row",
+          "settings": {
+            "percentage": 95,
+            "row_text": "<p>95% de nos clientes constatent <strong>moins de fuites urinaires</strong> depuis qu'elles utilisent VEINAA</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Ce que nos clientes en pensent",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "video_muted_autoplay": true,
+        "color_scheme": "background-1",
+        "layout": "results_first",
+        "results_headline": "",
+        "results_title_highlight_color": "#d19fa6",
+        "results_headline_size": "h2",
+        "results_text": "",
+        "results_headline_alignment": "left",
+        "caption": "<p><em>*Résultats issus d’un sondage réalisé en septembre 2025 auprès de 250 utilisatrices de VEINAA.</em></p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_accent": "#dd1d1d",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -1014,69 +1077,6 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
-      "type": "results",
-      "blocks": {
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Results",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
-        "video_muted_autoplay": true,
-        "color_scheme": "background-1",
-        "layout": "results_second",
-        "results_headline": "Results heading",
-        "results_title_highlight_color": "#6d388b",
-        "results_headline_size": "h2",
-        "results_text": "",
-        "results_headline_alignment": "left",
-        "caption": "<p>Caption about the results and/or link for their proof.</p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_accent": "#dd1d1d",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -1165,10 +1165,10 @@
     "rich_text_3VQtmh",
     "slideshow_3bAKb3",
     "featured_product_qNMnPG",
+    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "trustpilot_reviews_nDaYnb",
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "contact_form_WHP8G7"
   ]
 }
