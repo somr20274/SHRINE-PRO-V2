@@ -431,6 +431,21 @@
             "margin_bottom": 15
           }
         },
+        "trustpilot_stars_td68kV": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 16,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "price_HrDTgG": {
           "type": "price",
           "settings": {
@@ -446,6 +461,63 @@
             "filled_icon_2": false,
             "margin_top": 15,
             "margin_bottom": 15
+          }
+        },
+        "sizing_chart_MygpGk": {
+          "type": "sizing_chart",
+          "settings": {
+            "test_mode": false,
+            "append": "none",
+            "button_label": "Sizing chart",
+            "button_icon": "straighten",
+            "button_filled_icon": false,
+            "text_size": 17,
+            "button_alignment": "start",
+            "button_underline": false,
+            "headline": "Sizing Chart",
+            "heading_size": "h3",
+            "close_button_style": "minimalistic",
+            "color_scheme": "background-1",
+            "table_header_content": "Size, Chest, Length, Shoulder",
+            "table_header_color_scheme": "inverse",
+            "table_content": "<p>S, 95cm, 61cm, 44cm</p><p>M, 102cm, 66cm, 46cm</p><p>L, 106cm, 71cm, 48cm</p><p>XL, 111cm, 74cm, 51cm</p>",
+            "caption_text": "<p>Give your customers further information about choosing the correct size.</p>",
+            "caption_size": "1.45rem",
+            "caption_color": "#121212",
+            "caption_alignment": "left",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "reviews_ReCzVb": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#f2f2f2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6d388b",
+            "checkmark_icon_color": "#ffffff",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": false,
+            "display_dots": true,
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/telechargement_6.jpg",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_2": "<em>Author</em> [stars]",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_3": "<em>Author</em> [stars]",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "margin_top": 24,
+            "margin_bottom": 24
           }
         },
         "variant_picker_AL9aV8": {
@@ -539,7 +611,6 @@
         },
         "buy_buttons_pMnF8U": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "skip_cart": false,
@@ -560,7 +631,10 @@
       },
       "block_order": [
         "title_gTYDfL",
+        "trustpilot_stars_td68kV",
         "price_HrDTgG",
+        "sizing_chart_MygpGk",
+        "reviews_ReCzVb",
         "variant_picker_AL9aV8",
         "quantity_selector_BFpiMe",
         "buy_buttons_pMnF8U"
