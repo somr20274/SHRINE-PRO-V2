@@ -1425,7 +1425,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Contact form",
+        "title": "Nous contacter",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "button_full_width": true,
