@@ -468,13 +468,13 @@
           "settings": {
             "test_mode": false,
             "append": "none",
-            "button_label": "Sizing chart",
+            "button_label": "Guide des tailles",
             "button_icon": "straighten",
             "button_filled_icon": false,
             "text_size": 17,
             "button_alignment": "start",
             "button_underline": false,
-            "headline": "Sizing Chart",
+            "headline": "Guide des tailles",
             "heading_size": "h3",
             "close_button_style": "minimalistic",
             "color_scheme": "background-1",
@@ -485,6 +485,7 @@
             "caption_size": "1.45rem",
             "caption_color": "#121212",
             "caption_alignment": "left",
+            "top_image": "shopify://shop_images/6000fda2-c0f3-4cf1-88bb-771bbbbb55c4.png",
             "margin_top": 15,
             "margin_bottom": 15
           }
@@ -613,7 +614,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
-            "skip_cart": false,
+            "skip_cart": true,
             "uppercase_text": true,
             "icon_scale": 120,
             "icon_spacing": 10,
@@ -626,6 +627,14 @@
             "secondary_btn_custom_color": "#dd1d1d",
             "margin_top": 24,
             "margin_bottom": 24
+          }
+        },
+        "payment_badges_wQbpiB": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "",
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         },
         "shipping_checkpoints_QdQahc": {
@@ -671,6 +680,7 @@
         "variant_picker_AL9aV8",
         "quantity_selector_BFpiMe",
         "buy_buttons_pMnF8U",
+        "payment_badges_wQbpiB",
         "shipping_checkpoints_QdQahc"
       ],
       "name": "t:sections.featured-product.presets.name",
