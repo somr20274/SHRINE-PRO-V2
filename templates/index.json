@@ -521,8 +521,15 @@
             "margin_bottom": 24
           }
         },
+        "kaching_bundles_app_block_FNzcPL": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "variant_picker_AL9aV8": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, pills, pills",
             "custom_labels": "",
@@ -677,6 +684,7 @@
         "price_HrDTgG",
         "sizing_chart_MygpGk",
         "reviews_ReCzVb",
+        "kaching_bundles_app_block_FNzcPL",
         "variant_picker_AL9aV8",
         "quantity_selector_BFpiMe",
         "buy_buttons_pMnF8U",
