@@ -600,10 +600,10 @@
             "author_1": "<strong>Clara D. 30 ans</strong> [stars]",
             "image_1": "shopify://shop_images/telechargement_6.jpg",
             "text_1": "<p>“Je les ai offertes à ma mère — elle se sent enfin à l’aise et sereine.”</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_2": "",
+            "text_2": "",
+            "author_3": "",
+            "text_3": "",
             "margin_top": 24,
             "margin_bottom": 24
           }
