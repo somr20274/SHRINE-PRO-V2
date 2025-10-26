@@ -331,6 +331,7 @@
         },
         "buy_buttons_pMnF8U": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "skip_cart": false,
@@ -517,13 +518,23 @@
             "title": "Icon",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
           }
+        },
+        "column_BU9jEm": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
         }
       },
       "block_order": [
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4",
+        "column_BU9jEm"
       ],
       "settings": {
         "display_id": false,
