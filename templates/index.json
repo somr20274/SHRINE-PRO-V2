@@ -1076,7 +1076,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Coût",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1086,7 +1086,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Protection contre les fuites",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1096,7 +1096,17 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
           "type": "row",
           "settings": {
-            "benefit": "Benefit",
+            "benefit": "Zéro odeurs",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_CEVMit": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1107,7 +1117,8 @@
       "block_order": [
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1",
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2",
-        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3"
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3",
+        "row_CEVMit"
       ],
       "settings": {
         "display_id": false,
@@ -1138,18 +1149,19 @@
         "others_logo": "shopify://shop_images/08700216247719_C1N1-min.webp",
         "others_logo_width": 90,
         "others_mobile_logo_width": 80,
-        "others_2_label": "Competitor 2",
+        "others_2_label": "defrrfre",
         "others_2_label_size": 18,
+        "others_2_logo": "shopify://shop_images/08700216247719_C1N1-min.webp",
         "others_2_logo_width": 90,
         "others_2_mobile_logo_width": 60,
         "others_3_label": "Competitor 3",
         "others_3_label_size": 18,
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
-        "checkmark_style": "regular",
+        "checkmark_style": "solid",
         "checkmark_color": "#ffffff",
         "checkmark_bg_color": "#53af01",
-        "x_style": "regular",
+        "x_style": "solid",
         "x_color": "#121212",
         "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
