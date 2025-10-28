@@ -1113,7 +1113,7 @@
         "row_CEVMit": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>Réutilisable </strong>",
             "us": true,
             "others": false,
             "others_2": false,
