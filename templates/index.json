@@ -763,6 +763,12 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
+        },
+        "gsc_countdown_timer_countdown_pRpgTK": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": ""
+          }
         }
       },
       "block_order": [
@@ -776,7 +782,8 @@
         "quantity_selector_BFpiMe",
         "buy_buttons_pMnF8U",
         "payment_badges_wQbpiB",
-        "shipping_checkpoints_QdQahc"
+        "shipping_checkpoints_QdQahc",
+        "gsc_countdown_timer_countdown_pRpgTK"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
