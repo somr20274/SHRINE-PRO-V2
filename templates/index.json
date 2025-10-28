@@ -1027,7 +1027,7 @@
         "text_8BUtWk": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"J'ai vu des milliers de femmes</em><em><strong>souffrir d'incontinence</strong></em><em>et en ressentir la honte. C'est pourquoi j'ai créer les sous-vêtements VEINAA :</em><em><strong>une véritable protection</strong></em><em>qui vous procure la sensation de porter votre sous-vêtement préféré, et non un dispositif médical\"</em></p>",
+            "text": "<p><em>\"J'ai vu des milliers de femmes </em><em><strong>souffrir d'incontinence </strong></em><em>et en ressentir la honte. C'est pourquoi j'ai créer les sous-vêtements VEINAA :</em><em><strong>une véritable protection </strong></em><em>qui vous procure la sensation de porter votre sous-vêtement préféré, et non un dispositif médical\"</em></p>",
             "text_style": "body"
           }
         }
