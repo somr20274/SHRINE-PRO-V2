@@ -914,6 +914,13 @@
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
       "type": "results",
       "blocks": {
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
+          "type": "row",
+          "settings": {
+            "percentage": 95,
+            "row_text": "<p>95% de nos clientes constatent <strong>moins de fuites urinaires</strong> depuis qu'elles utilisent VEINAA</p>"
+          }
+        },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
           "type": "row",
           "settings": {
@@ -927,19 +934,12 @@
             "percentage": 90,
             "row_text": "<p>90% de nos clientes affirment avoir regagner <strong>confiance </strong>en elles.</p>"
           }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
-          "type": "row",
-          "settings": {
-            "percentage": 95,
-            "row_text": "<p>95% de nos clientes constatent <strong>moins de fuites urinaires</strong> depuis qu'elles utilisent VEINAA</p>"
-          }
         }
       },
       "block_order": [
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3",
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2"
       ],
       "settings": {
         "display_id": false,
