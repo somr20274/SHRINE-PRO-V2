@@ -124,12 +124,23 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
+        },
+        "image_slide_WRNVJa": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/unnamed_1.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
         }
       },
       "block_order": [
         "image_slide_bFGaVG",
         "image_slide_Dt43iK",
-        "image_slide_htbWch"
+        "image_slide_htbWch",
+        "image_slide_WRNVJa"
       ],
       "name": "LOGO",
       "settings": {
