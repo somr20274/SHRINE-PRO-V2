@@ -827,30 +827,30 @@
         "collapsible_row_CfWHta": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Description",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Découvrez la culotte VEINAA :<strong>la solution élégante, discrète et confortable contre les fuites urinaires légères à modérées</strong>. Grâce à sa technologie innovante, elle neutralise les odeurs instantanément tout en vous gardant parfaitement au sec. Invisible sous les vêtements, elle épouse vos formes et vous offre une vraie liberté au quotidien. Fini les protections jetables, optez pour une protection qui allie confort, style et sérénité.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_TTVnDd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Composition & Matières",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Extérieur : 95% coton biologique, 5% élasthanne – doux et respirant</p><p><br/>Doublure absorbante : fibre de bambou + polyester technique<br/><br/>Membrane anti-fuite : TPU imperméable, sans PFOA / PFAS<br/><br/>Hypoallergénique & sans substances nocives<br/><br/>Certifié OEKO-TEX®</p>",
             "page": ""
           }
         },
         "collapsible_row_wRWhwk": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Entretien & Lavage",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Pour préserver l’efficacité anti-odeur et la longévité de votre culotte VEINAA :</p><ol><li>Rincer à l’eau froide après usage<br/></li><li>Lavage en machine à 30°C<br/></li><li>Séchage à l’air libre (éviter le sèche-linge)<br/></li><li>Ne pas repasser / ne pas utiliser d’adoucissant</li></ol>",
             "page": ""
           }
         },
