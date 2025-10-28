@@ -150,7 +150,7 @@
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "type": "slide",
+        "type": "loop",
         "drag": "enabled",
         "autoplay": true,
         "autoplay_speed": 1,
@@ -727,7 +727,7 @@
             "enable_custom_color": false,
             "custom_color": "#dd1d1d",
             "enable_secondary_btn": false,
-            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_label": "",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
             "margin_top": 24,
@@ -774,12 +774,6 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
-        },
-        "gsc_countdown_timer_countdown_pRpgTK": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-SMALL-LBXJHJLoZpeK"
-          }
         }
       },
       "block_order": [
@@ -793,8 +787,7 @@
         "quantity_selector_BFpiMe",
         "buy_buttons_pMnF8U",
         "payment_badges_wQbpiB",
-        "shipping_checkpoints_QdQahc",
-        "gsc_countdown_timer_countdown_pRpgTK"
+        "shipping_checkpoints_QdQahc"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
