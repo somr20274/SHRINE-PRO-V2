@@ -857,10 +857,10 @@
         "collapsible_row_B8ATFy": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Livraisons & Retours",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p><strong>Livraison standard offerte</strong><br/></p><p>Délai moyen : 4 à 7 jours ouvrés<br/><br/>Suivi complet de votre commande par e-mail<br/><br/>Retours possibles sous 30 jours si non porté et non lavé</p>",
             "page": ""
           }
         }
