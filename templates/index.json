@@ -622,7 +622,7 @@
         "custom_liquid_aYMzaf": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n.veinaa-review {\n  display: flex;\n  align-items: center;\n  background-color: #fff8f9;\n  border-radius: 10px;\n  padding: 18px 22px;\n  box-shadow: 0 3px 10px rgba(0,0,0,0.05);\n  max-width: 600px;\n  margin: 25px auto;\n  font-family: 'Poppins', sans-serif;\n}\n\n.veinaa-review img {\n  width: 55px;\n  height: 55px;\n  border-radius: 50%;\n  object-fit: cover;\n  border: 2px solid #d19fa6;\n  margin-right: 15px;\n}\n\n.veinaa-review-content {\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n}\n\n.veinaa-review p {\n  font-size: 15px;\n  color: #333;\n  line-height: 1.4;\n  margin: 0 0 5px;\n}\n\n.veinaa-stars {\n  color: #f8c121;\n  font-size: 16px;\n  margin-top: 3px;\n}\n\n.veinaa-review-name {\n  font-weight: 600;\n  color: #d19fa6;\n  font-size: 13px;\n  margin-top: 4px;\n}\n</style>\n\n<div class=\"veinaa-review\">\n  <img src=\"https://i.pinimg.com/736x/9f/0f/26/9f0f26d000c5dcb148e656aa775e29c9.jpg\" alt=\"Avis cliente VEINAA\">\n  <div class=\"veinaa-review-content\">\n    <p>“Je les ai offertes à ma mère — elle se sent enfin à l’aise et sereine.”</p>\n    <div class=\"veinaa-stars\">★★★★★</div>\n    <div class=\"veinaa-review-name\">— Clara D., 30 ans</div>\n  </div>\n</div>"
+            "custom_liquid": ""
           }
         },
         "kaching_bundles_app_block_FNzcPL": {
