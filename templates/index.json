@@ -217,7 +217,7 @@
           "type": "heading",
           "settings": {
             "title": "Elles l'adorent !",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         }
@@ -235,9 +235,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -253,7 +253,7 @@
             "mobile_image": "shopify://shop_images/1745005074-4.avif",
             "image_overlay_opacity": 0,
             "heading": "Anne.B",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2",
             "subheading": "\"J’en avais assez des protections jetables inconfortables et peu discrètes. Avec VEINAA, je me sens enfin à l’aise au travail ou en sortie. C’est doux, respirant et surtout hyper efficace !”",
             "button_label": "",
@@ -268,9 +268,9 @@
             "color_scheme": "background-1",
             "transparent_container_color": "white",
             "text_alignment_mobile": "center",
-            "custom_colors_background": "#FFFFFF",
+            "custom_colors_background": "#ffffff",
             "custom_gradient_background": "",
-            "custom_colors_text": "#2E2A39",
+            "custom_colors_text": "#2e2a39",
             "custom_colors_solid_button_background": "#dd1d1d",
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
@@ -283,7 +283,7 @@
             "mobile_image": "shopify://shop_images/6.png",
             "image_overlay_opacity": 0,
             "heading": "Clara.B",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1",
             "subheading": "\"Je fais beaucoup de course à pied et les fuites me gâchaient mes entraînements. Depuis que je porte VEINAA, je n’y pense même plus. La protection est parfaite, sans sensation d’humidité ni frottement.\"",
             "button_label": "",
@@ -298,9 +298,9 @@
             "color_scheme": "background-1",
             "transparent_container_color": "white",
             "text_alignment_mobile": "center",
-            "custom_colors_background": "#FFFFFF",
+            "custom_colors_background": "#ffffff",
             "custom_gradient_background": "",
-            "custom_colors_text": "#2E2A39",
+            "custom_colors_text": "#2e2a39",
             "custom_colors_solid_button_background": "#dd1d1d",
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
@@ -313,7 +313,7 @@
             "mobile_image": "shopify://shop_images/IMG_7128_1.jpg",
             "image_overlay_opacity": 0,
             "heading": "Murielle.C",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1",
             "subheading": "\"Entre le stress, les trajets et mes deux petits enfants à gérer, je n’ai plus à craindre les petits accidents. Les VEINAA me suivent partout. En plus, elles sont jolies et durent longtemps, c’est un vrai plus\"",
             "button_label": "",
@@ -328,9 +328,9 @@
             "color_scheme": "background-1",
             "transparent_container_color": "white",
             "text_alignment_mobile": "center",
-            "custom_colors_background": "#FFFFFF",
+            "custom_colors_background": "#ffffff",
             "custom_gradient_background": "",
-            "custom_colors_text": "#2E2A39",
+            "custom_colors_text": "#2e2a39",
             "custom_colors_solid_button_background": "#dd1d1d",
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
@@ -343,7 +343,7 @@
             "mobile_image": "shopify://shop_images/gempages_566422077242868817-cf9e4ca2-3481-478f-9608-dbed044a2c62.jpg",
             "image_overlay_opacity": 0,
             "heading": "Monique.J",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1",
             "subheading": "\"Je n’en parle jamais, mais c’était devenu un vrai complexe. Avec VEINAA, j’ai retrouvé ma confiance. C’est discret, efficace et surtout je n’ai plus cette sensation d’humidité constante. Un vrai confort au quotidien.\"",
             "button_label": "",
@@ -358,9 +358,9 @@
             "color_scheme": "background-1",
             "transparent_container_color": "white",
             "text_alignment_mobile": "center",
-            "custom_colors_background": "#FFFFFF",
+            "custom_colors_background": "#ffffff",
             "custom_gradient_background": "",
-            "custom_colors_text": "#2E2A39",
+            "custom_colors_text": "#2e2a39",
             "custom_colors_solid_button_background": "#dd1d1d",
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
@@ -467,7 +467,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Notre produit en action",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -500,7 +500,7 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
@@ -767,7 +767,7 @@
         "gsc_countdown_timer_countdown_pRpgTK": {
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
-            "widget_id": ""
+            "widget_id": "GSC-SMALL-LBXJHJLoZpeK"
           }
         }
       },
@@ -816,7 +816,7 @@
         "shape_color": "accent-1",
         "custom_shape_color": "#dd1d1d",
         "background_color": "background-1",
-        "custom_background_color": "#FFFFFF",
+        "custom_background_color": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -877,7 +877,7 @@
         "visibility": "always-display",
         "caption": "",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -892,12 +892,12 @@
         "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2E2A39"
+        "custom_contaner_colors_text": "#2e2a39"
       }
     },
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
@@ -970,7 +970,7 @@
           "type": "heading",
           "settings": {
             "title": "Dotée de la technologie FluidCore",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         },
@@ -1010,13 +1010,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -1027,7 +1027,7 @@
           "type": "heading",
           "settings": {
             "title": "- Dr Elena.M, spécialiste du plancher pelvien",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         },
@@ -1067,13 +1067,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
