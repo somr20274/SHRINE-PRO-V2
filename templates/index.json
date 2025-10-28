@@ -1284,9 +1284,9 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Une solution discrète",
+            "text": "<p>Enfin une solution discrète et élégante ! J'avais peur que ça se voie sous mes vêtements, mais absolument pas. Je peux enfin retourner à mes cours de yoga sans stress. VEINAA a changé mon quotidien</p>",
+            "author": "<em><strong>Sohie.L</strong></em>"
           }
         },
         "column_dqmtDm": {
@@ -1296,9 +1296,9 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Protégée 24h/24",
+            "text": "<p>Je ne pensais pas retrouver ma liberté si rapidement. Que ce soit pour le sport, les sorties ou même dormir, je me sens protégée 24h/24. Un investissement qui vaut vraiment le coup !</p>",
+            "author": "<em><strong>Isabelle.B</strong></em>"
           }
         },
         "column_nd8HaG": {
@@ -1308,16 +1308,94 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "title": "Plus de stress",
+            "text": "<p>Discrète, confortable et efficace. Je porte VEINAA tous les jours et j'ai retrouvé confiance en moi. Plus de stress pendant mes rendez-vous ou mes voyages. Merci !</p>",
+            "author": "<em><strong>Caroline.S</strong></em>"
+          }
+        },
+        "column_pzekig": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "J'étais sceptique au début",
+            "text": "<p>J'étais sceptique au début, mais après 3 mois d'utilisation, je ne peux plus m'en passer. La qualité est au rendez-vous et le côté réutilisable est un vrai plus pour la planète et mon portefeuille.</p>",
+            "author": "<em><strong>Amélie.V</strong></em>"
+          }
+        },
+        "column_FmhPBg": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 4,
+            "title": "Fini les fuites embarassantes",
+            "text": "<p>Fini les fuites embarrassantes ! VEINAA m'accompagne partout : au travail, en soirée, en voyage. Je me sens libre et sereine. Une vraie révolution dans ma vie de femme active.</p>",
+            "author": "<em><strong>Nathalie.P</strong></em>"
+          }
+        },
+        "column_4xHYLM": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "La meilleure décision de l'année",
+            "text": "<p>La meilleure décision que j'ai prise cette année ! Confort, protection et élégance réunis. Je recommande VEINAA les yeux fermés à toutes les femmes qui vivent cette situation.</p>",
             "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_XLcdUV": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Enfin libre !",
+            "text": "<p>Je peux à nouveau sortir avec mes amies sans chercher les toilettes du regard. VEINAA m'a redonné ma spontanéité et ma joie de vivre. Plus jamais sans :!</p>",
+            "author": "<em><strong>Maria.R</strong></em>"
+          }
+        },
+        "column_pYXmck": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Révolutionnaire !",
+            "text": "<p>Après avoir essayé tous les produits du marché, VEINAA est de loin le meilleur. Protection parfaite et tissu ultra doux. Je recommande à 200% !</p>",
+            "author": "<em><strong>Catherine.M</strong></em>"
+          }
+        },
+        "column_qGVDWm": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Adieu le stress",
+            "text": "<p>Terminé l'angoisse avant chaque sortie ! Je me sens protégée et en confiance toute la journée. VEINAA, c'est ma sérénité retrouvée.</p>",
+            "author": "<em><strong>Sarah.E</strong></em>"
           }
         }
       },
       "block_order": [
         "column_rLzky9",
         "column_dqmtDm",
-        "column_nd8HaG"
+        "column_nd8HaG",
+        "column_pzekig",
+        "column_FmhPBg",
+        "column_4xHYLM",
+        "column_XLcdUV",
+        "column_pYXmck",
+        "column_qGVDWm"
       ],
       "name": "Trustpilot reviews",
       "settings": {
@@ -1343,8 +1421,8 @@
         "card_alignment": "center",
         "show_stars": true,
         "cards_color_scheme": "background-2",
-        "type": "slide",
-        "autoplay": false,
+        "type": "loop",
+        "autoplay": true,
         "autoplay_speed": 5,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
@@ -1362,8 +1440,8 @@
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#ffffff",
